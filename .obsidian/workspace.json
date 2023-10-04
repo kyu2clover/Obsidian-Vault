@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "052fccad79c7764c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86887f92f7fb129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04a7ba10444383c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage Tank/Hydrogen/An innovative and comprehensive approach for the consequence analysis of liquid hydrogen vessel explosions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3423387ddb43958f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43f3ec00e7479d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd9267782a965bed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e57199548bd103f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66b604c08dab9b28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdda7f7a03dd914a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef8c6100009fd558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f3096a35125c0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storage Tank/Hydrogen/An innovative and comprehensive approach for the consequence analysis of liquid hydrogen vessel explosions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58f59c4655bac231",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storage Tank/Hydrogen/An innovative and comprehensive approach for the consequence analysis of liquid hydrogen vessel explosions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26c27b1d68902211",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "333580a985d58e3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Storage Tank/Hydrogen/An innovative and comprehensive approach for the consequence analysis of liquid hydrogen vessel explosions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a04a7ba10444383c",
+  "lastOpenFiles": [
+    "Pasted image 20231002100912.png.md",
+    "Storage Tank/Hydrogen/An innovative and comprehensive approach for the consequence analysis of liquid hydrogen vessel explosions.md",
+    "Pasted image 20231002100806.png.md",
+    "Storage Tank/Hydrogen",
+    "Storage Tank/Ammonia",
+    "Domino Effect/Domino Effect (Paper Outline).md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled",
+    "Storage Tank",
+    "Domino Effect"
+  ]
+}
